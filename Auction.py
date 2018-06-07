@@ -10,7 +10,7 @@ if __name__ == '__main__':
     maxBid = 0
     
 #Read bids and commitments from file data.txt
-    for i in range (0,100):
+    for i in range (0,10):
         x = int(f.readline())
         y = int(f.readline())
 #Verify commit y=sha256(x)
