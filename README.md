@@ -13,4 +13,4 @@ Cryptocurrencies and Blockchain Technology - CBT'18" It consists of:
 3. Clone this repository into your machine.
 4. Open cmd/powershell/terminal and switch to the repository directory
 5. Execute `truffle test` to test an existing Auction run
-6. Wait a bit of time, and test passed should appear.
+6. Wait a bit of time, and "test passed" should appear.
